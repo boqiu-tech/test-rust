@@ -5,3 +5,4 @@ authors = ["boqiu <82121246@qq.com>"]
 edition = "2018"
 
 [dependencies]
+parking_lot = "0.6"
