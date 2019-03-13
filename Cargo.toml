@@ -1,0 +1,7 @@
+[package]
+name = "test-rust"
+version = "0.1.0"
+authors = ["boqiu <82121246@qq.com>"]
+edition = "2018"
+
+[dependencies]
